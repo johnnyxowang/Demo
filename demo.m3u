@@ -69,6 +69,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711549186/ei/
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711551508/ei/tN8DZqKKJKzRp-oP_saRkAE/ip/2a09:bac5:3807:1cdc:0:0:2e0:8e/id/loRNMq2fhIo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-aigl6nzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-G0Qe0byE7Ke6rQgZcKV6ougDKB1S2BIeCVGxdvDAI/vprv/1/playlist_type/DVR/initcwndbps/2898750/mh/F-/mip/2a09:bac5:3801:1cdc::2e0:12a/mm/44/mn/sn-aigl6nzr/ms/lva/mv/m/mvi/1/pl/41/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711529543/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgCDSPAw9ug35BFAvA_wP1Dgaxp9MVOPRpbTWMMNKN24ICIQDMnFZiF6XsnSELGpRinFWtWgMnbGhd3yNvPxepZfnOqQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgK8-mLlvku6ZXESr89RIpfMCUbRKXiqMYksBWUp-c7ooCIF12QTVlYhaxI30Cyuj95o3dAfUll4BlfbZWPW88LyhB/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 
