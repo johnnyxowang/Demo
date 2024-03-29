@@ -71,10 +71,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧备
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧武林外传
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧武林外传YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711544006/ei/ZsIDZq-LBbPQp-oPj82LmAg/ip/2a09:bac5:3803:1f19:0:0:319:6b/id/HAJ1nS4lpM8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-aigl6nzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f2KUzvOXyaiWcMoATsuwwKdoZULmhnX6Uu5rgqUqEm0/vprv/1/playlist_type/DVR/initcwndbps/3166250/mh/ug/mip/2a09:bac5:3803:ebe::178:119/mm/44/mn/sn-aigl6nzs/ms/lva/mv/m/mvi/3/pl/41/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711522101/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhANvMKsF7ZldoMnMCm19N8MgSMb_urSmXBxWQEB4K4boXAiBXiNHLOcATcZ6pqRxuyJpqktw73TH1jBr1zbUAz0LvoQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgCb74ssTBj5GoIxZhCJtrNO1TzDXrB-H6tZajcaTRaJ8CIDnFUKAOLt4M-LOfzVfgBBPJCesjxGl5eZdzMYMt7v9V/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧雍正王朝
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧雍正王朝YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711552305/ei/0eIDZuuWIaOjp-oPhLqogAo/ip/2a09:bac1:2880:840:0:0:178:63/id/P1Gq0Ft1vqw.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-aigl6n6s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7F-rbwDFZgzO3pzakgCp6qqrnGNDP7oa5qMmhG_SDU/vprv/1/playlist_type/DVR/initcwndbps/2178750/mh/pO/mip/2a09:bac1:28c0:840::179:173/mm/44/mn/sn-aigl6n6s/ms/lva/mv/m/mvi/1/pl/64/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711530023/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgIJB8VV-idDbTVgivZ_eItvrtZCB2qOnO1Z2sHioCKOwCIH0evxBzSnMnwgWZSnTNLrIVYBIYQCcdfw2DSa30siWS/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAMcYnxpcL__TYHL4QLu06RSSfpTQAFEheb3oIQqjDl0iAiAJt6HLoS6ylz6Z8tplmZJpIwe46q_JOzyr5IncpshZKg%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
@@ -210,116 +210,139 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711556630/ei/
 http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视备
+http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视备
+http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视备
+http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视备
+http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视备
+https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/da9447e5bb-0-0-f5f61780d2c38572372fb5aafad399f0/index.m3u8
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视备
+http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视备
+http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
 
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://111.59.63.32:9901/tsfile/live/1042_1.m3u8
 
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视备
+http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://221.213.43.82:8888/newlive/live/hls/45/live.m3u8
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视备
+http://221.213.43.82:8888/newlive/live/hls/45/live.m3u8
 
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
 https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/69049a82db-0-0-730288d864b5a58b74f4dcb01c3f3769/index.m3u8
 
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视备
+http://221.213.43.82:8888/newlive/live/hls/33/live.m3u8
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视备
+http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视备
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视备
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
 
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视备
+http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
 
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道",山西卫视备
+http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
 https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/3130c5086e-0-0-85b8d52c298b7a1f17cb53bd669a4978/index.m3u8
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视备
+https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/17e62c2e01-0-0-70b94eb3e45746c6a9af7be4bcd47bf2/index.m3u8
 
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道",贵州卫视备
+http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/cc6dfe3ec4-0-0-bbf13622ebc736a4efdbd3405c088fe2/index.m3u8
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视备
+https://iptv.luas.edu.cn/liverespath/2844a81a1ac7f57ada10433dacb258b595a3a774/8a3a2fd2cf-0-0-3d689a5c5d9fd77adfec7c402da05854/index.m3u8
 
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 https://sjlivecdn9.cbg.cn/202402080904/app_2/_definst_/ls_2.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视备
+https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5d2b5d0510-0-0-105d2ca44ae2d9aab6095bbd2b23d67d/index.m3u8
 
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视备
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视备
+http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
 
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视备
+http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://stream.snrtv.com/sxbc-star-chmqQR.m3u8
 
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视备
+http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
@@ -330,36 +353,43 @@ http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道",吉林卫视备
+http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视备
+http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视备
+https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://221.213.43.82:8888/newlive/live/hls/39/live.m3u8
 
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道",青海卫视备
+http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视备
+http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=6673493b35914117fd4f87de0189cd17&time=65c440b5
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道",西藏卫视备
+http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
 
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视备
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视频道",延边卫视
 
@@ -579,68 +609,68 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语备
 
-#EXTINF:-1 tvg-id="中天" tvg-name="中天" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="台湾",中天新聞台
+#EXTINF:-1 tvg-id="中天" tvg-name="中天" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="台湾",中天新聞台YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711536/ei/0FAGZuStAcmhsfIP3MqZuAk/ip/2a09:bac5:6389:123c:0:0:1d1:74/id/oIgbl7t0S_w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-n4v7snee.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzSETdMilDA4lCnGl_H2ZFJ3xSpgxrI4ETDm4Su7M_g/vprv/1/playlist_type/DVR/initcwndbps/2613750/mh/Qu/mip/2a09:bac5:6389:123c::1d1:b9/mm/44/mn/sn-n4v7snee/ms/lva/mv/m/mvi/4/pl/45/dover/11/pacing/0/keepalive/yes/fexp/51141542/beids/24350376/mt/1711689622/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgMFqLUSP3NUYBmTHz6ol4DVJuzHV-NNt2QZ-h1G1YJLICIG_ixeVLn32-siMWzIUghyandf1YxbltRrTUsV838FsU/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhALFPKpC2eTgGJbPdSb5YXYGzcJFb7ESzQNYTCBDToXErAiEAoFqLYeUHfO2XGe5KNrnLOu6xGxKRvJYxyqcs3FfFLBo%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="东森新聞台" tvg-name="东森新聞台"  tvg-logo="https://live.fanmingming.com/tv/东森新聞.png" group-title="台湾",东森新聞台
+#EXTINF:-1 tvg-id="东森新聞台" tvg-name="东森新聞台"  tvg-logo="https://live.fanmingming.com/tv/东森新聞.png" group-title="台湾",东森新聞台YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711590/ei/BlEGZsCsE8iQsfIP2LiJKA/ip/2a09:bac5:638f:1250:0:0:1d3:8b/id/6IquAgfvYmc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-nx5s7nel.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fypa4bkMH3oVeywINh-ZUDQ2z5jUXpCFV1nMiSHuE6E/vprv/1/playlist_type/DVR/initcwndbps/2091250/mh/M0/mip/2a09:bac1:76a0:d28::1d2:31/mm/44/mn/sn-nx5s7nel/ms/lva/mv/m/mvi/4/pl/40/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711689622/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgGxwPBCCtk12v-OWfT45GDwJlOmBs7SOCYHouCs2vQSECIQDEhDEn3-puwioDmLlVYaUwQcx3CM3bw6_3dhSfv0mLyw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgaAfh-JITCQpF7T02IcIyQ30KXr6pat0w2lElQjqh5N0CIQDcm3jRyzSnI1R3WN7kFURdUk3VH3bCQTCxR3Q8ySNkYA%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台"  tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="台湾",寰宇新聞台
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台"  tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="台湾",寰宇新聞台YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711624/ei/J1EGZuzqOo_SsfIPxoiwyAU/ip/2a09:bac5:638c:1246:0:0:1d2:88/id/TCnaIE_SAtM.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-n4v7snly.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3dM5AycMTIuazSZBDANixPri-jNr_iWdkxonQ5bw5jG79FotKcMQw/vprv/1/playlist_type/DVR/initcwndbps/2613750/mh/eb/mip/2a09:bac5:6388:123c::1d1:be/mm/44/mn/sn-n4v7snly/ms/lva/mv/m/mvi/2/pl/45/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711689622/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgWtobr2Vq1_IEWkn-CgUvFrysoihsTNK9dcmBzgq5_QYCIHPxrnwhEQWIault0d4nBVj66PUI4IiIQAu9mkC-f1wC/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAN2XCxc1MJNh6Me0KJpyHmtj5ez3pryGhByq3ixQiH_XAiEA1L1vpVoJwBUb_-SxOIajUSt7J8W3tMF_KW_oC9oA17M%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞"  tvg-logo="https://live.fanmingming.com/tv/中視新聞.png" group-title="台湾",中視新聞台
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞"  tvg-logo="https://live.fanmingming.com/tv/中視新聞.png" group-title="台湾",中視新聞台YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711646914/ei/YlQFZvT0MrrQhcIPx4WswAM/ip/2a09:bac5:3807:ec8:0:0:179:1b5/id/TCnaIE_SAtM.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-aigl6n6s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fybYFtsJ_B8du24CPEIPaNtbsoM8lh3sny9I7mDv5ds/vprv/1/playlist_type/DVR/initcwndbps/2687500/mh/eb/mip/2a09:bac5:3806:1f19::319:72/mm/44/mn/sn-aigl6n6s/ms/lva/mv/m/mvi/5/pl/41/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711625067/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhANBe70tK9so8c2BYvFwEfQTGz4X94pfqLrfpZAvurED0AiEApagwQJgn0HB3kb3ec89ux8Hx7ret3ZV_MMol2MlbTTU%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgcOFpV3g82fHxTupKxVADpV5gj1DFcpCyk9-VG_oPJm0CIQDTZ1xHElpEKCkGE4iBpJt4nDOpReIJkrfheMxieDnnzQ%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="三立海外直播" tvg-name="三立海外直播"  tvg-logo="https://live.fanmingming.com/tv/三立.png" group-title="台湾",三立海外直播
+#EXTINF:-1 tvg-id="三立海外直播" tvg-name="三立海外直播"  tvg-logo="https://live.fanmingming.com/tv/三立.png" group-title="台湾",三立海外直播YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711654/ei/RlEGZrC-JfrmsfIPopuCCA/ip/2a09:bac5:6388:1246:0:0:1d2:8/id/CKjSm5ZeehE.85/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-n4v7snse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1dy69MvQh6PE4oRw567svm8QkPa172ese2ODVNCiRY/vprv/1/playlist_type/DVR/initcwndbps/2613750/mh/Pu/mip/2a09:bac5:6389:1232::1d0:aa/mm/44/mn/sn-n4v7snse/ms/lva/mv/m/mvi/5/pl/45/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711689622/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgBgSuNSiouqtm7mcFZMuMj4xUA3fn5pPVpxwKaEI7nqoCIQCtdx9aZDa6A_yqi2MnkiRAI_RR77N-V_mFsMnjoKDPcA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAOQfMZ0LqKiUMTyZADmXjCHQvk5X9LbnR5HDSA_a-xtLAiBXy8f1FhZlPyhjXt_PA2tsfK_8gPu5Yk7TrPRlJ-Yx7g%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="三台視新聞台" tvg-name="台視新聞台"  tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="台湾",台視新聞台1
+#EXTINF:-1 tvg-id="三台視新聞台" tvg-name="台視新聞台"  tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="台湾",台視新聞台1YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711623584/ei/QPkEZoKNE_O6p-oPypKW-As/ip/2a09:bac5:3803:1f19:0:0:319:6/id/29Y5E6QkRus.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-aigl6nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fy9oFJAG_ZgTgwMO4LsWBLoQAIUaDd8gow8qLZTqlXE/vprv/1/playlist_type/DVR/initcwndbps/2348750/mh/Fm/mip/2a09:bac5:3800:1f19::319:d6/mm/44/mn/sn-aigl6nzk/ms/lva/mv/m/mvi/4/pl/41/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711601545/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJ8HZ0PbBbgSukgswx4pdqmn91nUuRcNavaoOG0zZCnKAiAmCjMuDSQBaPDa5iptM04XzSAaH_P0zH3Evdp7gwz4dw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAKgkrKK7uhjbZygMOZTodhMLataYObE2VMs7MdF6T17OAiAzl-HJntAUW0izzbqk1ujZ_GUc-Mlqc_jJoYSzbvimwQ%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="三台視新聞台" tvg-name="台視新聞台"  tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="台湾",台視新聞台2
+#EXTINF:-1 tvg-id="三台視新聞台" tvg-name="台視新聞台"  tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="台湾",台視新聞台2YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711623835/ei/O_oEZqfGJ9bLhcIPwuqWoAg/ip/2a09:bac1:28a0:840:0:0:178:152/id/eRIzdpP5xKs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-aigzrnse.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fwHqNmBR46Rknw5YGk2S4K4Eg9Nn2z4XIRs86eo9Jlo/vprv/1/playlist_type/DVR/mh/EI/mip/2a09:bac1:28a0:840::319:8e/mm/44/mn/sn-aigzrnse/ms/lva/mv/u/mvi/4/pl/64/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711601889/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAMunykQQDGOanmniVpNSKc5WulDa8wGUHypf_4v5bwsaAiEA9fJLTbL4aOgo44w0HN00yBxw9NxHGgRSBI6qw_eSFuo%3D/lsparams/hls_chunk_host,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgInGiCIahxbJ_PHP98XIQQ76LF9zpE7xBNkBDVP9APnICIHTg0qUcaLyTCIb7Kpw7UJQ90r0eTF8jPbrGeBIM6ixQ/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBS556台" tvg-name="TVBS55台"  tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS55台
+#EXTINF:-1 tvg-id="TVBS556台" tvg-name="TVBS55台"  tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS55台YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711695/ei/b1EGZsy7Db-KsfIPi4WOyAk/ip/2a09:bac5:638e:1250:0:0:1d3:78/id/2mCSYvcfhtc.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-nx5s7n7z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f0ZFONRar4-p9qOwAMX6qk_9VBAjNNMJtpBOzyh8E6g/vprv/1/playlist_type/DVR/initcwndbps/2287500/mh/9_/mip/2a09:bac1:76c0:d28::1d1:b2/mm/44/mn/sn-nx5s7n7z/ms/lva/mv/m/mvi/5/pl/40/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711689860/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMjiCy0cUHvKaV4nwaJIzSdnQ_bQaK8BAzbFexflW-a8AiBQObxReQdOoQ86DLoQxvqzFB97RLG3qDXyDfPjGZACEQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgUDkrktxnJ0HzAFHG1EknlKaxnysBBiBDrZqLnVEh-FACIBkNhkqwCKb8gXsVTsmEIh9TS7nXeEOCrjDk2V_di_H5/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBS56台" tvg-name="TVBS56台"  tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS56台
+#EXTINF:-1 tvg-id="TVBS56台" tvg-name="TVBS56台"  tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS56台YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711695/ei/b1EGZsy7Db-KsfIPi4WOyAk/ip/2a09:bac5:638e:1250:0:0:1d3:78/id/2mCSYvcfhtc.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-nx5s7n7z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f0ZFONRar4-p9qOwAMX6qk_9VBAjNNMJtpBOzyh8E6g/vprv/1/playlist_type/DVR/initcwndbps/2287500/mh/9_/mip/2a09:bac1:76c0:d28::1d1:b2/mm/44/mn/sn-nx5s7n7z/ms/lva/mv/m/mvi/5/pl/40/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711689860/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMjiCy0cUHvKaV4nwaJIzSdnQ_bQaK8BAzbFexflW-a8AiBQObxReQdOoQ86DLoQxvqzFB97RLG3qDXyDfPjGZACEQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgUDkrktxnJ0HzAFHG1EknlKaxnysBBiBDrZqLnVEh-FACIBkNhkqwCKb8gXsVTsmEIh9TS7nXeEOCrjDk2V_di_H5/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBS24小时" tvg-name="TVBS24小时"  tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS24小时
+#EXTINF:-1 tvg-id="TVBS24小时" tvg-name="TVBS24小时"  tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS24小时YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711695/ei/b1EGZsy7Db-KsfIPi4WOyAk/ip/2a09:bac5:638e:1250:0:0:1d3:78/id/2mCSYvcfhtc.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-nx5s7n7z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f0ZFONRar4-p9qOwAMX6qk_9VBAjNNMJtpBOzyh8E6g/vprv/1/playlist_type/DVR/initcwndbps/2287500/mh/9_/mip/2a09:bac1:76c0:d28::1d1:b2/mm/44/mn/sn-nx5s7n7z/ms/lva/mv/m/mvi/5/pl/40/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711689860/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMjiCy0cUHvKaV4nwaJIzSdnQ_bQaK8BAzbFexflW-a8AiBQObxReQdOoQ86DLoQxvqzFB97RLG3qDXyDfPjGZACEQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgUDkrktxnJ0HzAFHG1EknlKaxnysBBiBDrZqLnVEh-FACIBkNhkqwCKb8gXsVTsmEIh9TS7nXeEOCrjDk2V_di_H5/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="公视新聞台" tvg-name="公视新聞台"  tvg-logo="https://live.fanmingming.com/tv/公视新聞.png" group-title="台湾",公视新聞台
+#EXTINF:-1 tvg-id="公视新聞台" tvg-name="公视新聞台"  tvg-logo="https://live.fanmingming.com/tv/公视新聞.png" group-title="台湾",公视新聞台YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711759/ei/r1EGZuLZD-WgsfIPl9GbqAE/ip/2a09:bac5:638f:123c:0:0:1d1:3d/id/YvdcZ_jpLXE.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-n4v7sney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f_7Mh2PQwsHj2MvpT4ndVXv0b1pYjZKPulbp-wYsC4c/vprv/1/playlist_type/DVR/initcwndbps/2375000/mh/6C/mip/2a09:bac5:6388:123c::1d1:73/mm/44/mn/sn-n4v7sney/ms/lva/mv/m/mvi/2/pl/45/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711689860/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhANVAxRQzNoYYLS9e9y-JbJg9dGDBTySCpK67_nWtY3AqAiEAkf0h-Sr85RvJdUspuIle-3zjOSj9pXibJKaUteVLcWg%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgSEx9BlJU8C4I9RyjL6uGk3BT00jwcSvblNTafcDQ-R8CIQDp2yRdJF6EyYnZrU-R4VCoww48NRY1vRWdw_L2aUQsAg%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻直播"  tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾",华视新闻直播
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻直播"  tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="台湾",华视新闻直播YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711796/ei/1FEGZpeQLqLTsfIP7YegsAE/ip/2a09:bac5:638b:1246:0:0:1d2:59/id/m_dhMSvUCIc.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-n4v7sney.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1tftxvZlrbvLDOzFwcPmRdPw0Xm7-zPOpCM6rG04LXOENdMgeyFRQ/vprv/1/playlist_type/DVR/initcwndbps/2375000/mh/V0/mip/2a09:bac5:638a:1250::1d3:59/mm/44/mn/sn-n4v7sney/ms/lva/mv/m/mvi/3/pl/45/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711689860/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJH2cO_o8oyU_-TFU-lmRTl35V0kYEp9QjkeLUxWHPefAiBv3IWkCjgWKV1Rz2kfsVCMiayTlC50tA7rs_1roTMKPA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgWXkaybtkuL3n_jUVU8M_81Wptwj8GQGIdc0C8oV_J9YCIQDNICH1MDzzaU98KNyjuxu22EpDKcW9s4vbrIX2i6pUqg%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="民视新闻S" tvg-name="民视新闻"  tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾",民视新闻直播
+#EXTINF:-1 tvg-id="民视新闻S" tvg-name="民视新闻"  tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="台湾",民视新闻直播YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711289/ei/2U8GZo5Dzeex8g-ctZrwBQ/ip/2a09:bac5:638b:1250:0:0:1d3:38/id/ylYJSBUgaMA.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-nx57ynsd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3yETuhwopHSZVvuoKYqp30KpqqIR6WINySjSN6VcPI/vprv/1/playlist_type/DVR/initcwndbps/2177500/mh/iR/mip/2a09:bac1:7680:d28::1d3:4f/mm/44/mn/sn-nx57ynsd/ms/lva/mv/m/mvi/1/pl/40/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711689381/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgE--HSfYjJf4aQy1BCxpFZkD7EYaDdOfoD_mO7Zv9xgACIQCU5_RnGg1XvzAHZzgtIDKGecMdUqXXD6GCWTrF71Xjow%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAKc1d5SSMHpYi1EeXqJ1QtEGCVRstvR7wZezmvQT4u30AiEAycKucfjPrEaVRkJW6Fcc8XrbP_5pydomNZ_xRhl5pVA%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="NHK LIVE" tvg-name="NHK LIVE"  tvg-logo="https://live.fanmingming.com/tv/NHK LIVE.png" group-title="日本",NHK LIVE
+#EXTINF:-1 tvg-id="NHK LIVE" tvg-name="NHK LIVE"  tvg-logo="https://live.fanmingming.com/tv/NHK LIVE.png" group-title="日本",NHK LIVEYOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711627800/ei/uAkFZsykL7rvmLAP9N2P2AM/ip/2a09:bac5:3806:1cdc:0:0:2e0:1a/id/f0lYkdA-Gtw.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-2gb7sne6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4mBMi-3Kt9LbHXP38ZMcBgJDO6I3LtXYQyzbGFM1CA/vprv/1/playlist_type/DVR/initcwndbps/10956250/mh/48/mip/2a09:bac1:2880:840::2e0:f2/mm/44/mn/sn-2gb7sne6/ms/lva/mv/m/mvi/1/pl/60/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711605864/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgO0wiP5-ElIg0NND3KM5YGJiEeV0PCjofUDpvtlIif54CIQCM6EbODZkEbot8HD0NyDCsPa0a-sZ9MRlNLsc2P5JJ-g%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgeSyiH1gNbmyf8vv7Mz1qQ-MWmibnOGJiblEKqXw11GQCIQCvmBlDX7biuxnUSGWDcQ08-HTT0GlhUGxeK4u5E0XYZg%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="日テレNEWS" tvg-name="日テレNEWS LIVE"  tvg-logo="https://live.fanmingming.com/tv/日テレNEWS.png" group-title="日本",日テレNEWS LIVE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711555207/ei/J-4DZvThLtvLhcIP5--CcA/ip/2a09:bac1:2880:840:0:0:2e0:6b/id/VDhPBOOSDlw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr11---sn-n8v7kn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1X0Wbaz8Cc1aPNicVTFfQUFhRU2SdvWmKqvdzao8Z4/vprv/1/playlist_type/DVR/initcwndbps/3716250/mh/Co/mip/2a09:bac1:2880:840::2e0:17/mm/44/mn/sn-n8v7kn76/ms/lva/mv/m/mvi/11/pl/59/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711533144/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALG5I3HdXRdwkcTNUTOJnGEw7QphW0lAAKeBnAChuwUAAiEA8Ju1322l3XRuQK-sf-_PJlnzrZTofNsu9IwoCD5bS5c%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAI99KXqIYGaN7puvmLa1wjYPLpe91DB_iXY72elDxRenAiA6acxafkLn-avviw7UbW6BqYePvedQ767ICD6N1Ps1KQ%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="FNNS" tvg-name="FNN LIVE"  tvg-logo="https://live.fanmingming.com/tv/FNN.png" group-title="日本",FNN LIVE
+#EXTINF:-1 tvg-id="FNNS" tvg-name="FNN LIVE"  tvg-logo="https://live.fanmingming.com/tv/FNN.png" group-title="日本",FNN LIVEYOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711631469/ei/DRgFZtLKLtyTp-oPkOGY8Ao/ip/2a09:bac5:3803:1cdc:0:0:2e0:e2/id/2eHOwpNkbgM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-aigl6nek.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f2Ob6-Doy-PMouZmOYgbQiQlvWwu-G7KIKBE7PsvSNA/vprv/1/playlist_type/DVR/initcwndbps/1108750/mh/6O/mip/2a09:bac1:28c0:840::17a:1f/mm/44/mn/sn-aigl6nek/ms/lva/mv/m/mvi/4/pl/64/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711609714/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhANJknE2yNhfGZ6JIsDiprni27z_Sb7AHQO2LpE89V2NbAiB7tRD_JF4ZX49z4FU52wVP4rNHCBiqCI7R2hcjafvb2Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAOtSeHlQECkLQcUq2ydpSaO_tH07eQjGrdEw_ro94aAUAiBN4EZGru7ufnMyB7IWo3QgfuRx3r-kbVIRfbMh4dYBFw%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="YTN LIVE" tvg-name="YTN LIVE"  tvg-logo="https://live.fanmingming.com/tv/YTN.png" group-title="韩国",YTN LIVE
+#EXTINF:-1 tvg-id="YTN LIVE" tvg-name="YTN LIVE"  tvg-logo="https://live.fanmingming.com/tv/YTN.png" group-title="韩国",YTN LIVEYOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711555377/ei/0e4DZoGCK4-SmLAP25GaeA/ip/2a09:bac1:28c0:840:0:0:15:37a/id/FJfwehhzIhw.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-aigl6n6s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/gb/ss/1/spc/UWF9f8mgvCZJrkZMJvOcIMgManS_tHRvZSnab99Ft8_1hT0/vprv/1/playlist_type/DVR/initcwndbps/4033750/mh/EO/mip/2a09:bac5:3804:1cdc::2e0:c0/mm/44/mn/sn-aigl6n6s/ms/lva/mv/m/mvi/4/pl/41/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711533144/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,ss,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMenBBU5ma3BZ-RWO_nHi6iV4FpSHIi1dipdMEM5-mSlAiBW3eL-5gp-hD_SvsVz9cFIU0wVixpnzhonCl7_lECrzw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAOqFmIUH8ypxvHGdWxkqIVwqdV-zPT4o2DIc6KShEp1JAiEA45rjexXEBVxrf89_bGFL6249WX1Elas1OjstXug8MeU%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="KBS LIVE" tvg-name="KBS LIVE"  tvg-logo="https://live.fanmingming.com/tv/KBS.png" group-title="韩国",KBS LIVE
+#EXTINF:-1 tvg-id="KBS LIVE" tvg-name="KBS LIVE"  tvg-logo="https://live.fanmingming.com/tv/KBS.png" group-title="韩国",KBS LIVEYOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711555699/ei/E_ADZuvcC9uLvdIP09e02AI/ip/2a09:bac1:28e0:840:0:0:178:48/id/OxQQsIvJTTU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr6---sn-n8v7znze.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/gb/spc/UWF9fx4lSnq4YhJqqkOiBoGBK7l3_wxtiYM_aVy29zEPtUQ/vprv/1/playlist_type/DVR/initcwndbps/6102500/mh/uP/mip/2a09:bac1:2880:840::319:4d/mm/44/mn/sn-n8v7znze/ms/lva/mv/m/mvi/6/pl/59/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711533622/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhAM3ryN5KbQA6crJemNI9ngA5V3Xckf0-o5vyNmk-2K7PAiEAz6cAvR2nrArnu6WX2DwcqVe4851RYLwpLjWB_-nVKw8%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgK24fRf9-1PQpkTEq64nHncDwHb7wmx-cFRdE58uUYgQCIAQ3NnaxGegOgCEtC6LCEAkImUJzzV0tg4TiK1wJrv0K/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC LIVE"  tvg-logo="https://live.fanmingming.com/tv/ABC.png" group-title="澳大利亚",ABC LIVE
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC LIVE"  tvg-logo="https://live.fanmingming.com/tv/ABC.png" group-title="澳大利亚",ABC LIVEYOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711624951/ei/l_4EZpAh166n6g_78IGIBw/ip/2a09:bac5:3800:1cdc:0:0:2e0:f8/id/gN0PZCe-kwQ.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-2gb7sne6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fwPGDKaww5j2gr01fQudmBpZ4zGmQEXus2NgjEWA8Tc/vprv/1/playlist_type/DVR/initcwndbps/6796250/mh/Nv/mip/2a09:bac1:2880:840::15:351/mm/44/mn/sn-2gb7sne6/ms/lva/mv/m/mvi/2/pl/60/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711602987/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhANtJw5JiFPKiOpIimBGriOT6762-Fv4V4sxPAS87zxTnAiEA-qF6xogUc_TEC34qbJxT4yb-V0rFVWICIUmqm6b4150%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAPyqR8WbxxnJkktIaCO5Bu1W5b_Peimq4XYxP3OEpxKaAiBQmsp0ZHh8BQ4pFx2kPpLseMzDHa8YT3OEr3e7xwXpYw%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="SKY" tvg-name="SKY LIVE"  tvg-logo="https://live.fanmingming.com/tv/SKY.png" group-title="英国",SKY LIVE
+#EXTINF:-1 tvg-id="SKY" tvg-name="SKY LIVE"  tvg-logo="https://live.fanmingming.com/tv/SKY.png" group-title="英国",SKY LIVEYOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711625255/ei/x_8EZujHJbytxN8Pv92hkAk/ip/2a09:bac5:3805:1f19:0:0:319:3a/id/w9uJg68CV4g.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-aigzrnsl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/gb/spc/UWF9f8T-V6Q6U1Ddkjd7zVCCMHPvc6qmoNJvUH_lxuTIFS0/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/3418750/mh/Wz/mip/2a09:bac5:3800:ebe::178:81/mm/44/mn/sn-aigzrnsl/ms/lva/mv/m/mvi/4/pl/41/smhost/rr5---sn-aigzrn7s.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711603227/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRAIgDgU1nptsafJvBK034WhbwhbeK-liVglOBTbtdr8cN74CIGmgY14CsGcX3s_qxiwNmceQjQPGuAuGiasJgIJ338fm/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl,smhost/lsig/ALClDIEwRQIhAKVyKPWlnBpYlKf8g22Od5hzmDZlCGagsKAbzLqNlKjrAiAzb7clUXQmVbzEThxquV0Q7s4Ftr8Yu8SK78ORkoygDA%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="France24" tvg-name="France24 LIVE"  tvg-logo="https://live.fanmingming.com/tv/France24.png" group-title="法国",France24 LIVE
+#EXTINF:-1 tvg-id="France24" tvg-name="France24 LIVE"  tvg-logo="https://live.fanmingming.com/tv/France24.png" group-title="法国",France24 LIVEYOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711625857/ei/IQIFZq63GYGmp-oPy7SpiAw/ip/2a09:bac1:28c0:840:0:0:178:50/id/l8PMl7tUDIE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-2oaig5-55.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f61MKJslbUuPcmRoiyNRl3Nkho8H3UtxdUQeV2PbdSI/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/2167500/mh/37/mip/2a09:bac5:3806:1f19::319:17/mm/44/mn/sn-2oaig5-55/ms/lva/mv/m/mvi/3/pl/41/rmhost/rr4---sn-2oaig5-55.googlevideo.com/smhost/rr3---sn-aigzrn7l.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711603705/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgXsPMVD7Jh23lA4fNUdMFqPJyZuwuv9K_gYB9v4a9MUICIQC9Ah42Tg_PVc4Y534uEKcYXZVJm9Tx0XGZ4tSmZj9shQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,smhost/lsig/ALClDIEwRQIhAJ-ySs2tkPrMJka7B08aRehY-uG1gakeip4oFH38HognAiAxqhd65P-A8hlHGdyv9ByLjJUHySFyoHvMOdldHkS-AA%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="United Nations LIVE" tvg-name="United Nations LIVE"  tvg-logo="https://live.fanmingming.com/tv/United Nations LIVE.png" group-title="美国",United Nations LIVE
+#EXTINF:-1 tvg-id="United Nations LIVE" tvg-name="United Nations LIVE"  tvg-logo="https://live.fanmingming.com/tv/United Nations LIVE.png" group-title="美国",United Nations LIVEYOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711626536/ei/yAQFZtC7FZW1p-oP1Yem2Ao/ip/2a09:bac1:2880:840:0:0:319:10f/id/wfAa1GiNdgM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-aigl6nsd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6QVzPCNL318vVklkCO6TTbwvXOHPVQx2wNtx9En46g/vprv/1/playlist_type/DVR/initcwndbps/1323750/mh/05/mip/2a09:bac1:28a0:840::2e0:2a/mm/44/mn/sn-aigl6nsd/ms/lva/mv/m/mvi/1/pl/64/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711604665/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALeEyiGiSCE_OPKmmxQyCZZSaPx-h18gTh4D1ocJMz0sAiEAvmHwjmjjD-3d8pWnE8eep1eARrxtbh5sYVkDAf73O7c%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgC9BILiwQ4gBG85F0Uu9Xok4jv1NzHgcfDL5qHTcNqDsCIQCAk_YeCVZ0nBK-x8S2xHNjek1nPzQ1Z6IcKKxB2RQ0cA%3D%3D/playlist/index.m3u8
