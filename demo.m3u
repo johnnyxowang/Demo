@@ -157,6 +157,7 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影备
+https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/73806b841d-0-0-49fbde5c705d9930c203f18caff64fe0/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 
@@ -180,10 +181,23 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711470/ei/
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711711470/ei/jlAGZofiDNLGsfIPj6KW2Ac/ip/2a09:bac5:638e:123c:0:0:1d1:97/id/HFib76ySpbU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-o097znss.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fz12o9NHtTZmFdWu2GRzc2_7h8dZUdmiGEh8VKVcxN0/vprv/1/playlist_type/DVR/initcwndbps/2443750/mh/kQ/mip/2a09:bac5:638f:123c::1d1:1c/mm/44/mn/sn-o097znss/ms/lva/mv/m/mvi/3/pl/45/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1711689381/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgT7dulmKUIR1VvoXhmlx4TDOmYZiy3duMaV6Tx_0ElDkCIH_W7itsrUuSHFXAi2y_szK4PDqrwdZp9AYZdDgbZ83s/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAPtm1WV4X1PRzihhzkUfvaRXAJGvsxt4Ty5B6r3hTDcoAiEA7Y65JF8j8dzd6A88kbqFV_H3FVW3yzsIEIrVAyy-ybU%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视备
+http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视备
+http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
+http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视备
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视YOUTUBE
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711556630/ei/tvMDZsXbJMGghcIP1f2ymAE/ip/2a09:bac5:3807:1cdc:0:0:2e0:ae/id/loRNMq2fhIo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-aigl6nzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-XTPfzjxY_mUXDXwHXg6AqQ21ZGTK9s_refDBu7QhU/vprv/1/playlist_type/DVR/initcwndbps/1730000/mh/F-/mip/2a09:bac1:28a0:840::179:79/mm/44/mn/sn-aigl6nzr/ms/lva/mv/m/mvi/1/pl/64/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711534584/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKT8jbER5tLzqdDpHrOynDHQQiaumntUCOUwAzMgUSxOAiBLY-QAmogDwjzZwfE9DGcyj5cvl_zuTbIi_w72fszE2Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIga4UQJgRJjpCsBJ4MkbA6EMcWe206KwBh2TzFVJR9Z-ACIQDvZiZBzNFb7gPz55iroiXvL9BmxWI8hoXyyz8DroDROA%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
@@ -311,8 +325,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711556630/ei/
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="卫视频道",老故事
 
 #EXTINF:-1 tvg-id="置业" tvg-name="置业" tvg-logo="https://live.fanmingming.com/tv/置业频道.png" group-title="卫视频道",置业频道
-
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视频道",中国天气
 
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",兵器科技
 
